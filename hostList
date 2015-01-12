@@ -34,12 +34,12 @@
 #GoogleAccounts↓
 #64.233.168.84	accounts.google.com
 #64.233.168.84	accounts.l.google.com
-64.233.168.95	accounts.google.com
-64.233.168.95	accounts.l.google.com
+64.233.168.96	accounts.google.com
+64.233.168.96	accounts.l.google.com
 #GoogleAccounts↑
 #www.google.com↓
 #64.233.168.106	www.google.com
-64.233.168.95	www.google.com
+64.233.168.96	www.google.com
 #www.google.com↑
 #Googleapis↓
 64.233.185.116	mt0.googleapis.com
@@ -51,18 +51,18 @@
 64.233.185.116	mts2.googleapis.com
 64.233.185.116	mts3.googleapis.com
 64.233.185.116	googleapis.com
-64.233.168.95	www.googleapis.com
-64.233.168.95	android.googleapis.com
-64.233.168.95	play.googleapis.com
-64.233.168.95	ajax.googleapis.com
-64.233.168.95	chart.googleapis.com
-64.233.168.95	fonts.googleapis.com
-64.233.168.95	redirector-bigcache.googleapis.com
-64.233.168.95	translate.googleapis.com
-64.233.168.95	maps.googleapis.com
-64.233.168.95	content.googleapis.com
-64.233.168.95	googleapis.l.google.com
-64.233.168.95	doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
+64.233.168.96	www.googleapis.com
+64.233.168.96	android.googleapis.com
+64.233.168.96	play.googleapis.com
+64.233.168.96	ajax.googleapis.com
+64.233.168.96	chart.googleapis.com
+64.233.168.96	fonts.googleapis.com
+64.233.168.96	redirector-bigcache.googleapis.com
+64.233.168.96	translate.googleapis.com
+64.233.168.96	maps.googleapis.com
+64.233.168.96	content.googleapis.com
+64.233.168.96	googleapis.l.google.com
+64.233.168.96	doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
 #Googleapis↑
 #Android↓
 #74.125.235.165	android-china.l.google.com
@@ -808,3 +808,4 @@
 
 Google other↑
 #Google Services END
+
