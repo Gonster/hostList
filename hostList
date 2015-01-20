@@ -20,6 +20,10 @@
 	127.0.0.1       localhost
 #	::1             localhost
 
+#github gist
+192.30.252.140	gist.github.com
+
+
 #OneDrive START
 134.170.108.154	onedrive.live.com
 134.170.104.176	skyapi.onedrive.live.com
