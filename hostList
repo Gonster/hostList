@@ -44,8 +44,8 @@
 #GoogleAccounts↓
 #64.233.168.84	accounts.google.com
 #64.233.168.84	accounts.l.google.com
-210.242.125.97	accounts.google.com
-210.242.125.97	accounts.l.google.com
+216.58.220.217	accounts.google.com
+216.58.220.217	accounts.l.google.com
 #GoogleAccounts↑
 #www.google.com↓
 #64.233.168.106	www.google.com
@@ -119,11 +119,11 @@
 #Android↑
 #Youtube↓
 216.58.220.217	accounts.youtube.com
-64.233.168.100	www.youtube.com
-64.233.168.100	m.youtube.com
-64.233.168.100	insight.youtube.com
+216.58.220.217	www.youtube.com
+216.58.220.217	m.youtube.com
+216.58.220.217	insight.youtube.com
 #64.233.168.100	apiblog.youtube.com
-64.233.168.100	help.youtube.com
+216.58.220.217	help.youtube.com
 216.58.220.217	i.ytimg.com
 216.58.220.217	i1.ytimg.com
 216.58.220.217	i2.ytimg.com
@@ -149,31 +149,31 @@
 216.58.220.217	uploads.clients.google.com
 #UpLoad↑
 #Appspot↓
-64.233.185.141	www.appspot.com
-64.233.185.141	appspot.com
-64.233.185.141	betaspike.appspot.com
-64.233.185.141	chrome-devtools-frontend.appspot.com
-64.233.185.141	chrometophone.appspot.com
-64.233.185.141	evolutionofweb.appspot.com
-64.233.185.141	feedly-beta.appspot.com
-64.233.185.141	googcloudlabs.appspot.com
-64.233.185.141	gv-gadget.appspot.com
-64.233.185.141	lfe-alpo-gm.appspot.com
-64.233.185.141	m-dot-betaspike.appspot.com
-64.233.185.141	magnifier.blogspot.com
-64.233.185.141	moderator.appspot.com
-64.233.185.141	newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
-64.233.185.141	productideas.appspot.com
-64.233.185.141	project-slingshot-gp.appspot.com
-64.233.185.141	r2303.latest.project-slingshot-hr.appspot.com
-64.233.185.141	r3085-dot-latest-dot-project-slingshot-gp.appspot.com
-64.233.185.141	r3091-dot-latest-dot-project-slingshot-gp.appspot.com
-64.233.185.141	r3101-dot-latest-dot-project-slingshot-gp.appspot.com
-64.233.185.141	r3269-dot-latest-dot-project-slingshot-gp.appspot.com
-64.233.185.141	r3432-dot-latest-dot-project-slingshot-hr.appspot.com
-64.233.185.141	r4681-dot-latest-dot-project-slingshot-hr.appspot.com
-64.233.185.141	r7647-dot-latest-dot-project-slingshot-hr.appspot.com
-64.233.185.141	wcproxyx.appspot.com
+216.58.220.217	www.appspot.com
+216.58.220.217	appspot.com
+216.58.220.217	betaspike.appspot.com
+216.58.220.217	chrome-devtools-frontend.appspot.com
+216.58.220.217	chrometophone.appspot.com
+216.58.220.217	evolutionofweb.appspot.com
+216.58.220.217	feedly-beta.appspot.com
+216.58.220.217	googcloudlabs.appspot.com
+216.58.220.217	gv-gadget.appspot.com
+216.58.220.217	lfe-alpo-gm.appspot.com
+216.58.220.217	m-dot-betaspike.appspot.com
+216.58.220.217	magnifier.blogspot.com
+216.58.220.217	moderator.appspot.com
+216.58.220.217	newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
+216.58.220.217	productideas.appspot.com
+216.58.220.217	project-slingshot-gp.appspot.com
+216.58.220.217	r2303.latest.project-slingshot-hr.appspot.com
+216.58.220.217	r3085-dot-latest-dot-project-slingshot-gp.appspot.com
+216.58.220.217	r3091-dot-latest-dot-project-slingshot-gp.appspot.com
+216.58.220.217	r3101-dot-latest-dot-project-slingshot-gp.appspot.com
+216.58.220.217	r3269-dot-latest-dot-project-slingshot-gp.appspot.com
+216.58.220.217	r3432-dot-latest-dot-project-slingshot-hr.appspot.com
+216.58.220.217	r4681-dot-latest-dot-project-slingshot-hr.appspot.com
+216.58.220.217	r7647-dot-latest-dot-project-slingshot-hr.appspot.com
+216.58.220.217	wcproxyx.appspot.com
 #Appspot↑
 #GoogleDrive↓
 64.233.184.97	drive.google.com
