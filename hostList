@@ -399,10 +399,10 @@
 64.233.185.133	sp9.googleusercontent.com
 #Googleusercontent↑
 #Gstatic↓
-64.233.185.96	www.gstatic.com
-64.233.185.96	ssl.gstatic.com
+216.58.220.217	www.gstatic.com
+216.58.220.217	ssl.gstatic.com
 216.58.220.217	csi.gstatic.com
-64.233.185.96	csi.l.google.com
+216.58.220.217	csi.l.google.com
 216.58.220.217	maps.gstatic.com
 216.58.220.217	fonts.gstatic.com
 216.58.220.217	encrypted-tbn0.gstatic.com
@@ -438,8 +438,8 @@
 216.58.220.217	t7.gstatic.com
 #Gstatic↑
 #Google other↓
-64.233.185.114	apis.google.com
-64.233.185.114	talkgadget.google.com
+216.58.220.217	apis.google.com
+216.58.220.217	talkgadget.google.com
 216.58.220.217	chromoting-host.talkgadget.google.com
 216.58.220.217	chromoting-oauth.talkgadget.google.com
 216.58.220.217	chromoting-client.talkgadget.google.com
