@@ -1,5 +1,5 @@
 hostList
 =========
 
-valid hosts list for myself
+a valid hosts list for myself
 
