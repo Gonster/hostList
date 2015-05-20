@@ -25,23 +25,28 @@
 #aws
 #54.231.244.8	s3.amazonaws.com
 
-#github gist
+#github gist Start
 192.30.252.140	gist.github.com
-
-173.194.38.204	comet4j.googlecode.com
-173.194.38.204	discuz-ucenter-api-for-java.googlecode.com
+#github gist End
 
 #OneDrive START
 134.170.108.154	onedrive.live.com
 134.170.104.176	skyapi.onedrive.live.com
 131.253.61.98	login.live.com
-
 #OneDrive End
+
+#wikipedia Start
+198.35.26.96	zh.wikipedia.org
+#wikipedia End
+
 #angularjs gwtproject START
 #173.194.38.204	www.gwtproject.org
 #173.194.38.204	angularjs.org
 #angularjs gwtproject END
+
 #Google Services START
+173.194.38.204	comet4j.googlecode.com
+173.194.38.204	discuz-ucenter-api-for-java.googlecode.com
 173.194.38.204	cse.google.com
 #GoogleAccounts↓
 #64.233.168.84	accounts.google.com
